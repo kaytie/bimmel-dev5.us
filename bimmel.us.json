@@ -1,0 +1,14 @@
+{
+	"menuLinkText": [
+		"Hire me, fire me",
+		"Next things",
+		"Portfolio",
+		"about me"
+	],
+	"collection": [
+		{
+			"sectiontitle": "Section Title",
+			"sectiontext": "sectioncontenthere"
+		}
+	]
+}
